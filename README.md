@@ -1,5 +1,5 @@
 # Overview
-REPO for labs 1, 2, 3 (Calculation methods, 5 semester, BSU FPMI).  
+REPO for labs 1, 2, 3 (computational methods, 5 semester, BSU FPMI).  
 branchecs: main.  
 main branch: labs 1, 2, 3 and docs.  
 Not all conclusions are correct.  
